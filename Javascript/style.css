@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(42, 183, 211);
+}
+
+#boton{
+    background-color: rgb(13, 13, 95);
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+img{
+    width:100px;
+    height:100px;
+}
